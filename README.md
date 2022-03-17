@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to order-summary-component 👋</h1>
+<h1 align="center">Order-summary-component</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/saulloalmeida" target="_blank">
@@ -6,13 +6,13 @@
   </a>
 </p>
 
-![project-screen](https://github.com/saulloalmeida/qr-code-component-fm/blob/master/screen.png?raw=true)
+![project-screen](https://github.com/saulloalmeida/order-summary-component/blob/master/screen.png?raw=true)
 
 > Order summary component challenge frontend mentor
 
-### 🏠 [Homepage](.)
+### 🏠 [Homepage](https://order-summary-component-umber-omega.vercel.app/)
 
-### ✨ [Demo](.)
+### ✨ [Demo](https://order-summary-component-umber-omega.vercel.app/)
 
 ## Install
 
@@ -36,7 +36,4 @@ yarn dev
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+Give a ⭐️
